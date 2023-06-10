@@ -1,0 +1,25 @@
+body {
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+}
+
+#ders1 .cube-container {
+  height: 500px;
+}
+#ders1 .textbox {
+  font-size: 20px;
+}
+#ders1 .cube {
+  padding: 15px;
+  color: white;
+  font-size: 22px;
+  width: 200px;
+  height: 200px;
+  background-color: #d598c8;
+  margin: 10px;
+}
+#ders1 .cube1 {
+  position: fixed;
+  top: 180px;
+  right: 10px;
+}/*# sourceMappingURL=style.css.map */
